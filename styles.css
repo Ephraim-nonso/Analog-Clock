@@ -39,3 +39,19 @@ img {
   top: 375px;
   left: 665px;
 }
+
+@media screen and (max-width: 1024px) {
+  .hands {
+    position: absolute;
+    top: 39%;
+    left: 35%;
+  }
+
+  .dot {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 38%;
+    left: 49%;
+  }
+}
